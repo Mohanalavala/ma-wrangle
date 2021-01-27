@@ -11,11 +11,11 @@ my assigned play is **All's Well That Ends Well**
 which speaker dialogues are more?
 
 ## Commands used to answer the question
-grep -i 'HELENA' ma.txt -c
-124
+$grep -i 'HELENA' ma.txt -c
+```124```
 
 $ grep -i 'LAFEU' ma.txt -c
-116
+```116```
 
 ## Answer
 HELENA spoke more dialogues than LAFEU
