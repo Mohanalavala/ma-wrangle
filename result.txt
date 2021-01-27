@@ -1,0 +1,123 @@
+<i>Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black</i>
+<A NAME=speech17><b>HELENA</b></a>
+<A NAME=1.1.71>[To HELENA]  The best wishes that can be forged in</A><br>
+<A NAME=speech27><b>HELENA</b></a>
+<A NAME=speech29><b>HELENA</b></a>
+<A NAME=speech31><b>HELENA</b></a>
+<A NAME=speech33><b>HELENA</b></a>
+<A NAME=speech35><b>HELENA</b></a>
+<A NAME=speech37><b>HELENA</b></a>
+<A NAME=speech39><b>HELENA</b></a>
+<A NAME=speech41><b>HELENA</b></a>
+<A NAME=speech43><b>HELENA</b></a>
+<A NAME=speech45><b>HELENA</b></a>
+<A NAME=speech47><b>HELENA</b></a>
+<A NAME=speech50><b>HELENA</b></a>
+<A NAME=speech52><b>HELENA</b></a>
+<A NAME=speech54><b>HELENA</b></a>
+<A NAME=speech56><b>HELENA</b></a>
+<A NAME=speech58><b>HELENA</b></a>
+<A NAME=speech60><b>HELENA</b></a>
+<A NAME=speech62><b>HELENA</b></a>
+<p><i>Enter HELENA</i></p>
+<A NAME=speech36><b>HELENA</b></a>
+<A NAME=speech38><b>HELENA</b></a>
+<A NAME=speech40><b>HELENA</b></a>
+<A NAME=speech42><b>HELENA</b></a>
+<A NAME=speech44><b>HELENA</b></a>
+<A NAME=speech46><b>HELENA</b></a>
+<A NAME=speech48><b>HELENA</b></a>
+<A NAME=speech50><b>HELENA</b></a>
+<A NAME=speech52><b>HELENA</b></a>
+<A NAME=speech54><b>HELENA</b></a>
+<A NAME=speech56><b>HELENA</b></a>
+<A NAME=speech58><b>HELENA</b></a>
+<A NAME=speech60><b>HELENA</b></a>
+<A NAME=speech62><b>HELENA</b></a>
+<p><i>Re-enter LAFEU, with HELENA</i></p>
+<A NAME=speech44><b>HELENA</b></a>
+<A NAME=speech46><b>HELENA</b></a>
+<A NAME=speech48><b>HELENA</b></a>
+<A NAME=speech50><b>HELENA</b></a>
+<A NAME=speech52><b>HELENA</b></a>
+<A NAME=speech54><b>HELENA</b></a>
+<A NAME=speech56><b>HELENA</b></a>
+<A NAME=speech58><b>HELENA</b></a>
+<A NAME=speech60><b>HELENA</b></a>
+<A NAME=speech62><b>HELENA</b></a>
+<p><i>Enter KING, HELENA, and Attendants. LAFEU and PAROLLES retire</i></p>
+<A NAME=speech30><b>HELENA</b></a>
+<A NAME=speech33><b>HELENA</b></a>
+<A NAME=speech35><b>HELENA</b></a>
+<A NAME=speech37><b>HELENA</b></a>
+<A NAME=speech39><b>HELENA</b></a>
+<A NAME=speech41><b>HELENA</b></a>
+<A NAME=speech43><b>HELENA</b></a>
+<A NAME=speech45><b>HELENA</b></a>
+<A NAME=speech47><b>HELENA</b></a>
+<A NAME=speech50><b>HELENA</b></a>
+<A NAME=speech60><b>HELENA</b></a>
+<i>Enter HELENA and Clown</i>
+<A NAME=speech1><b>HELENA</b></a>
+<A NAME=speech3><b>HELENA</b></a>
+<A NAME=speech5><b>HELENA</b></a>
+<A NAME=speech8><b>HELENA</b></a>
+<A NAME=speech18><b>HELENA</b></a>
+<A NAME=speech20><b>HELENA</b></a>
+<A NAME=speech22><b>HELENA</b></a>
+<A NAME=speech24><b>HELENA</b></a>
+<p><i>Enter HELENA</i></p>
+<A NAME=speech27><b>HELENA</b></a>
+<A NAME=speech29><b>HELENA</b></a>
+<A NAME=speech31><b>HELENA</b></a>
+<A NAME=speech33><b>HELENA</b></a>
+<A NAME=speech35><b>HELENA</b></a>
+<A NAME=speech37><b>HELENA</b></a>
+<A NAME=speech39><b>HELENA</b></a>
+<p><i>Exit HELENA</i></p>
+<p><i>Enter HELENA, and two Gentlemen</i></p>
+<A NAME=speech16><b>HELENA</b></a>
+<A NAME=speech20><b>HELENA</b></a>
+<A NAME=speech29><b>HELENA</b></a>
+<A NAME=speech31><b>HELENA</b></a>
+<A NAME=speech42><b>HELENA</b></a>
+<p><i>Enter HELENA, disguised like a Pilgrim</i></p>
+<A NAME=speech9><b>HELENA</b></a>
+<A NAME=speech11><b>HELENA</b></a>
+<A NAME=speech13><b>HELENA</b></a>
+<A NAME=speech15><b>HELENA</b></a>
+<A NAME=speech17><b>HELENA</b></a>
+<A NAME=speech19><b>HELENA</b></a>
+<A NAME=speech21><b>HELENA</b></a>
+<A NAME=speech23><b>HELENA</b></a>
+<A NAME=speech25><b>HELENA</b></a>
+<A NAME=speech27><b>HELENA</b></a>
+<A NAME=speech30><b>HELENA</b></a>
+<A NAME=speech34><b>HELENA</b></a>
+<A NAME=speech36><b>HELENA</b></a>
+<A NAME=speech38><b>HELENA</b></a>
+<A NAME=speech40><b>HELENA</b></a>
+<A NAME=speech46><b>HELENA</b></a>
+<i>Enter HELENA and Widow</i>
+<A NAME=speech1><b>HELENA</b></a>
+<A NAME=speech3><b>HELENA</b></a>
+<A NAME=speech5><b>HELENA</b></a>
+<A NAME=speech7><b>HELENA</b></a>
+<A NAME=speech9><b>HELENA</b></a>
+<i>Enter HELENA, Widow, and DIANA</i>
+<A NAME=speech1><b>HELENA</b></a>
+<A NAME=speech3><b>HELENA</b></a>
+<A NAME=speech5><b>HELENA</b></a>
+<i>Enter HELENA, Widow, and DIANA, with two Attendants</i>
+<A NAME=speech1><b>HELENA</b></a>
+<A NAME=speech3><b>HELENA</b></a>
+<A NAME=speech5><b>HELENA</b></a>
+<A NAME=speech7><b>HELENA</b></a>
+<A NAME=speech9><b>HELENA</b></a>
+<A NAME=speech12><b>HELENA</b></a>
+<A NAME=speech14><b>HELENA</b></a>
+<A NAME=speech16><b>HELENA</b></a>
+<p><i>Re-enter Widow, with HELENA</i></p>
+<A NAME=speech107><b>HELENA</b></a>
+<A NAME=speech109><b>HELENA</b></a>
+<A NAME=speech111><b>HELENA</b></a>
